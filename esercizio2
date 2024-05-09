@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .para{
+            
+    float: left;
+    color: darkred;
+    border: 3px ridge darkgoldenrod;
+    padding: 16px;
+    background-color: gold;
+    margin: 8px;
+}
+p:hover{
+    color: violet;
+}
+        
+    </style>
+</head>
+<body>
+    <h1>Lorem Ipsum</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse 
+        rhoncus felis eget diam laoreet vestibulum. Nullam pharetra tincidunt 
+        metus, non sagittis nisl auctor a. Nam a felis semper, convallis quam a, 
+        varius nunc. Cras porta vitae nulla sed pellentesque. Sed 
+        eget arcu auctor, volutpat velit eget, accumsan sem. 
+        Pellentesque vel ornare leo. Nullam consequat est eu </p>
+
+        <div class="para">
+            <blockquote> Sed nec viverra sem, id vulputate magna. Nulla faucibus facilisis dui ut rhoncus. Integer nec elit nisi. Sed aliquam ligula consequat, pharetra est quis, fermentum risus. Vivamus elementum fermentum risus non vestibulum. Etiam nec eros risus. Quisque vestibulum sem non sagittis mattis. Vestibulum eleifend elit a feugiat suscipit. Nunc quis placerat dolor. Sed mattis urna sit amet lectus commodo dictum. In convallis purus eget scelerisque blandit. Suspendisse potenti. Nam id lectus aliquet, sodales lorem cursus, tempor libero. </blockquote>
+                
+            
+        </div>
+    
+</body>
+</html>
